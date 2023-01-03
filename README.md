@@ -1,4 +1,4 @@
-# tweeterimages
+# tweeter user images
 download images of a twitter user
 base on this post https://twitter.com/DanTraderOM/status/1610201095070187520
 It would be usefull to check posts of traders that use tweeter to share their trades. So they can be analyzed. 
